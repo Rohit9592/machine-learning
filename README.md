@@ -7,3 +7,5 @@ transformer : https://jalammar.github.io/illustrated-transformer/
 gen Ai : https://github.com/entbappy/Generative-AI-Mastery-Resources.git
 <br>
 extra materials : https://github.com/ChristosChristofidis/awesome-deep-learning
+<br> 
+dl.pdf  140 mb for campusx notes 
