@@ -9,3 +9,7 @@ gen Ai : https://github.com/entbappy/Generative-AI-Mastery-Resources.git
 extra materials : https://github.com/ChristosChristofidis/awesome-deep-learning
 <br> 
 dl.pdf  140 mb for campusx notes 
+<br>
+krish naik langchain : https://github.com/krishnaik06/Updated-Langchain
+<br>
+
